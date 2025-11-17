@@ -1,0 +1,5 @@
+- [x] Remove heart container box.
+- [x] Position heart and names to not cover lyrics.
+- [x] Ensure shine is on heart surface.
+- [x] Make layout neat.
+- [x] Test the updates.
